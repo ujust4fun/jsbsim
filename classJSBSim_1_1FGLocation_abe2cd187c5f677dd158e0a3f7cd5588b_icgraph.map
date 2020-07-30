@@ -1,0 +1,12 @@
+<map id="GetCosLatitude" name="GetCosLatitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#abcf6f87deb0024b8b0c62d4608150d69" title="Get the sea level radius below the current location. " alt="" coords="175,162,320,189"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGLocation.html#a615abebc7359f6a872d60c7680a8039c" title="Get the geodetic distance between the current location and a given location. " alt="" coords="190,305,305,331"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGLocation.html#a077d7597ec2d610bd6370db8c8a44232" title="Get the heading that should be followed from the current location to a given location along the short..." alt="" coords="192,355,303,382"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInertial.html#a362f841fccd857fbf35aecd9f0c38418" title="Set the altitude above ground level. " alt="" coords="393,5,529,47"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#aed6e3b6b8e0d347cde695cfbc65ca55a" title="Gets the initial altitude above sea level. " alt="" coords="368,71,555,112"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="603,100,789,141"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#a08d094720caf08579d14b3e9dd3c6ce9" title="Get the cosine of Latitude. " alt="" coords="402,187,521,214"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGPropagate.html#a19ebb4cbb08e4d1bde3a408bcc2f1795" title="Returns the current altitude above sea level. " alt="" coords="382,239,541,280"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGAuxiliary.html#a764e8c6d39b827d2ad03f570a2fc37e6" title="Runs the Auxiliary routines; called by the Executive Can pass in a value indicating if the executive ..." alt="" coords="373,305,549,331"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGLocation.html#a7e110293850bba7cf628406c00fa76ba" title="Transform matrix from the earth centered to local horizontal frame. " alt="" coords="423,355,499,382"/>
+</map>

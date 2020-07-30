@@ -1,0 +1,16 @@
+<map id="GetGeodLatitudeRad" name="GetGeodLatitudeRad">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGDefaultGroundCallback.html#a8ea3c30532eecf47acf6932c7b8b86fb" title="Compute the altitude above ground. " alt="" coords="208,150,447,192"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInertial.html#a362f841fccd857fbf35aecd9f0c38418" title="Set the altitude above ground level. " alt="" coords="259,216,395,257"/>
+<area shape="rect" id="node13" href="$classJSBSim_1_1FGInitialCondition.html#adb6fe57c0d1ce470a4d12b8e3054f75b" title="Sets the altitude above sea level initial condition in feet. " alt="" coords="495,369,681,410"/>
+<area shape="rect" id="node15" href="$classJSBSim_1_1FGInitialCondition.html#a98f3a181161cfc19bb2da8be33021885" title="Gets the initial geodetic latitude. " alt="" coords="234,413,421,454"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInertial.html#a680da2ca4624c0eee6cd8d53625fb0dc" title="Get the altitude above ground level. " alt="" coords="520,56,656,97"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGPropagate.html#a61eb764447723162a99933775f3921a4" title="Returns the &quot;constant&quot; LocalTerrainRadius. " alt="" coords="738,26,909,68"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a1fabb78d427d8f826631eb863fccce28" title="Resets the IC data structure to new values. " alt="" coords="495,121,681,162"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="495,186,681,228"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGInitialCondition.html#a777b283e5014563b30f96b47a9e6220a" title="Sets the initial geodetic latitude. " alt="" coords="730,313,917,354"/>
+<area shape="rect" id="node12" href="$classJSBSim_1_1FGPropagate.html#a9729191af164b5db0c9f72cd182939d2" title="Initializes the FGPropagate class after instantiation and prior to first execution. " alt="" coords="509,304,667,345"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#ab6f6dae970e40878a34789be7dfcb9a7" title="Sets the initial latitude. " alt="" coords="730,182,917,224"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGInitialCondition.html#af4c905db84f046ff017aaa3cb86a3541" title="Loads the initial conditions. " alt="" coords="965,281,1152,322"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGInitialCondition.html#a68c83023466c7734fea2917175d9325d" title="Sets the flight path angle initial condition in degrees. " alt="" coords="729,248,917,289"/>
+<area shape="rect" id="node14" href="$classJSBSim_1_1FGTrim.html#a6a5e26b6c78ad99b63d075c6acc70679" title="Execute the trim. " alt="" coords="738,430,909,456"/>
+</map>

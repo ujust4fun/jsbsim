@@ -1,0 +1,12 @@
+<map id="GetLatitude" name="GetLatitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGAuxiliary.html#a764e8c6d39b827d2ad03f570a2fc37e6" title="Runs the Auxiliary routines; called by the Executive Can pass in a value indicating if the executive ..." alt="" coords="391,345,567,372"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="151,140,337,182"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGInitialCondition.html#ab082c701d852bfa3913d63884c64ba71" title="Gets the initial latitude. " alt="" coords="151,279,337,320"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGLocation.html#a615abebc7359f6a872d60c7680a8039c" title="Get the geodetic distance between the current location and a given location. " alt="" coords="187,396,301,422"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInitialCondition.html#a93ec4bc417c0505b4548f6a63af82bdf" title="Sets the initial terrain elevation. " alt="" coords="385,170,572,211"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInitialCondition.html#af4c905db84f046ff017aaa3cb86a3541" title="Loads the initial conditions. " alt="" coords="856,170,1043,211"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGInitialCondition.html#a68c83023466c7734fea2917175d9325d" title="Sets the flight path angle initial condition in degrees. " alt="" coords="620,228,808,270"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGInitialCondition.html#ab6f6dae970e40878a34789be7dfcb9a7" title="Sets the initial latitude. " alt="" coords="621,46,807,87"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGInitialCondition.html#a5c7c88a597829607471730f280b3266b" title="Sets the initial longitude. " alt="" coords="621,111,807,152"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGLocation.html#a7e110293850bba7cf628406c00fa76ba" title="Transform matrix from the earth centered to local horizontal frame. " alt="" coords="441,396,517,422"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="SetTerrainElevationFtIC" name="SetTerrainElevationFtIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#a644044433997e3d56d5c1b10fcaf4f8b" title="Gets the initial altitude above ground level. " alt="" coords="435,35,579,62"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGFDMExec.html#a93876fb8e8a2302e3880f9ebfb3ce6d5" title="Returns the FGInertial pointer. " alt="" coords="641,71,800,112"/>
+<area shape="rect" id="node9" href="$classJSBSim_1_1FGInertial.html#a951b99be7d4a44868bf71be60537ac23" title="Set the terrain elevation above sea level. " alt="" coords="221,443,373,484"/>
+<area shape="rect" id="node10" href="$classJSBSim_1_1FGInitialCondition.html#a78752db06521e6974fad0089a5e31695" title="Sets the initial Altitude above ground level. " alt="" coords="226,391,369,418"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGInertial.html#a680da2ca4624c0eee6cd8d53625fb0dc" title="Get the altitude above ground level. " alt="" coords="653,5,789,47"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGInertial.html#a362f841fccd857fbf35aecd9f0c38418" title="Set the altitude above ground level. " alt="" coords="848,551,984,592"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGLocation.html#ace936ea4b4378c9f57abbc24a0c86332" title="Gets the geodetic altitude in feet. " alt="" coords="1038,313,1185,355"/>
+<area shape="rect" id="node7" href="$classJSBSim_1_1FGLocation.html#a2420bec8cd0ca25c04353050a926a6af" title="Get the longitude. " alt="" coords="1038,563,1185,604"/>
+<area shape="rect" id="node8" href="$classJSBSim_1_1FGLocation.html#af0f103b7c1f4c5c8cdceb15a55305fe2" title="Sets the longitude, latitude and the distance above the reference ellipsoid. " alt="" coords="1032,639,1191,680"/>
+<area shape="rect" id="node11" href="$classJSBSim_1_1FGInitialCondition.html#aed6e3b6b8e0d347cde695cfbc65ca55a" title="Gets the initial altitude above sea level. " alt="" coords="436,718,579,745"/>
+<area shape="rect" id="node12" href="$classJSBSim_1_1FGAtmosphere.html#aa5dcca5a24bfb2c69dde5e88942b58dd" title="Returns the pressure in psf. " alt="" coords="421,769,593,811"/>
+<area shape="rect" id="node13" href="$classJSBSim_1_1FGAtmosphere.html#ab4bef1b1a9226219f8539341f111d453" title="Returns the speed of sound in ft/sec. " alt="" coords="421,835,593,876"/>
+<area shape="rect" id="node14" href="$classJSBSim_1_1FGAtmosphere.html#af3901faba5f7dfd5d6346fd031c5b3de" title="Returns the density in slugs/ft^3. " alt="" coords="421,188,593,229"/>
+<area shape="rect" id="node15" href="$classJSBSim_1_1FGAtmosphere.html#aee5a2ed8857b017f5ee36e458bf2f66e" title="Returns the sea level density in slugs/ft^3. " alt="" coords="421,253,593,295"/>
+<area shape="rect" id="node16" href="$classJSBSim_1_1FGJSBBase.html#a47ce4c428bfaf43335c8967eb18ace51" title="Calculate the calibrated airspeed from the Mach number. " alt="" coords="427,319,587,360"/>
+<area shape="rect" id="node17" href="$classJSBSim_1_1FGLocation.html#ada87a409e3919490b608b42a27f438e7" title="Get the latitude. " alt="" coords="434,384,581,425"/>
+<area shape="rect" id="node18" href="$classJSBSim_1_1FGJSBBase.html#a45ed508b4577f72ab2324cc61c68427b" title="Calculate the Mach number from the calibrated airspeed.Based on the formulas in the US Air Force Airc..." alt="" coords="427,449,587,491"/>
+<area shape="rect" id="node19" href="$classJSBSim_1_1FGInitialCondition.html#aa27763a4d398c95e7b346b824153d11e" title="Sets the initial true airspeed. " alt="" coords="451,515,564,542"/>
+</map>

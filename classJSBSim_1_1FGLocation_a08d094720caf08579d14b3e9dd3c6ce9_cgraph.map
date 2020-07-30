@@ -1,0 +1,6 @@
+<map id="GetTanLatitude" name="GetTanLatitude">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGLocation.html#abcf6f87deb0024b8b0c62d4608150d69" title="Get the sea level radius below the current location. " alt="" coords="172,64,317,91"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#abe2cd187c5f677dd158e0a3f7cd5588b" title="Get the cosine of Latitude. " alt="" coords="400,5,521,32"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGColumnVector3.html#a6e9ec6fa7764cdad294729403b238bdb" title="Length of the vector. " alt="" coords="365,57,556,98"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGMatrix33.html#aad49f19d4d1877d4d9b329d05849229f" title="Transposed matrix. " alt="" coords="387,122,535,163"/>
+</map>

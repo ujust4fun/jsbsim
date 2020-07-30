@@ -1,0 +1,7 @@
+<map id="GetVequivalentKtsIC" name="GetVequivalentKtsIC">
+<area shape="rect" id="node2" href="$classJSBSim_1_1FGInitialCondition.html#aed6e3b6b8e0d347cde695cfbc65ca55a" title="Gets the initial altitude above sea level. " alt="" coords="219,45,361,71"/>
+<area shape="rect" id="node5" href="$classJSBSim_1_1FGAtmosphere.html#af3901faba5f7dfd5d6346fd031c5b3de" title="Returns the density in slugs/ft^3. " alt="" coords="204,96,376,137"/>
+<area shape="rect" id="node6" href="$classJSBSim_1_1FGAtmosphere.html#aee5a2ed8857b017f5ee36e458bf2f66e" title="Returns the sea level density in slugs/ft^3. " alt="" coords="204,161,376,203"/>
+<area shape="rect" id="node3" href="$classJSBSim_1_1FGLocation.html#a3f3f67b03ed439bd572208afa1a737b5" title="Get the distance from the center of the earth. " alt="" coords="427,5,574,47"/>
+<area shape="rect" id="node4" href="$classJSBSim_1_1FGLocation.html#abcf6f87deb0024b8b0c62d4608150d69" title="Get the sea level radius below the current location. " alt="" coords="424,71,577,112"/>
+</map>
